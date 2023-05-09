@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "806813517591",
+    "project_id": "yellow-bus-83",
+    "storage_bucket": "yellow-bus-83.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:806813517591:android:8822aed6ae7aabd545d952",
+        "android_client_info": {
+          "package_name": "com.example.busreservationsystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "806813517591-m2u7khganqdu5lg88a9s80jcgbdq5c2m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoqq_7lB1JuAwfwwELK2AfmKubsOvrtZ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "806813517591-m2u7khganqdu5lg88a9s80jcgbdq5c2m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
